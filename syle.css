@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    text-shadow: 3px 3px 5px rgb(94, 93, 93);
+    
+}
+h4{
+    text-align: center;
+}
+pre{
+    text-align: center;
+    margin-right: 75px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+pre::first-letter{
+    font-size: 1.5em;
+}
